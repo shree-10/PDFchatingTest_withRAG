@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+langchain-community
+PyPDF2
+#chromadb
+faiss-cpu
+langchain_google_genai
+python-docx
+googletrans==4.0.0-rc1
+pdf2image
+pikepdf
